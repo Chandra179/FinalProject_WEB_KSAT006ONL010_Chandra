@@ -17,15 +17,8 @@
 4. Add product to cart <br>
   4.1 Add product to cart with `valid` QTY input <br>
   4.2 Add product to cart with `invalid` QTY input <br>
-5. Checkout <br>
-  5.2 Billing form : input user address <br>
-  5.4 Your order : order details <br>
-6. Newsletter <br>
+5. Newsletter <br>
   6.1 Submit email with `valid` email format <br>
   6.2 Submit email with `invalid` email format <br>
-7. Order <br>
-  7.1 Place order : submit order <br>
-  7.2 Order summary : order history <br>
-
 
 
