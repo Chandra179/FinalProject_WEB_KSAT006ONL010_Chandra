@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://kotakoki.wijaysali.my.id/'</initValue>
+      <name>WebsiteName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://kotakoki.wijaysali.my.id/my-account-2/'</initValue>
+      <name>MyAccountUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://kotakoki.wijaysali.my.id/register-now/'</initValue>
+      <name>RegisterUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://kotakoki.wijaysali.my.id/login/'</initValue>
+      <name>LoginUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://kotakoki.wijaysali.my.id/checkout-2/order-received/'</initValue>
+      <name>OrderReceivedUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

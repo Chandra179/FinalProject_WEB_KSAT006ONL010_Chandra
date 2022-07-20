@@ -1,0 +1,27 @@
+[DONE] register - valid - success
+[DONE] register - invalid - success
+[DONE] register - navigate to register - expected (you already registered) - actual (you already registered) - success
+
+[DONE] login - valid - success
+[DONE] login - invalid - success
+[DONE] login - (default) navigate to home - expected (my account menu) - actual (still login and register menu) - failed
+[DONE] login - navigate to login - expected (acc name, your account, logout) - actual (acc name, your account, logout) - success
+
+[DONE] logout - expected (redirect to login) - actual (stay on same page) - failed
+[DONE] navigate to myaccount url - expected (dashboard, orders, etc) - actual (login form) - failed
+
+
+
+ORDER
+-----
+1. SEARCH or NAVIGATE - search or navigate product
+2. ACTION - click product
+3. PRODUCT - (verify item)
+4. PROCESS ADD TO CART - set qty, add to cart
+5. ACTION - go to cart
+5. CART - (verify item)
+6. ACTION - proceed to checkout
+7. CHECKOUT - input address, order details, payment(verify item)
+8. ACTION - place order
+9. ACTION - klik simulasi pembayaran
+10. ORDER SUMMARY - verify page (order received)

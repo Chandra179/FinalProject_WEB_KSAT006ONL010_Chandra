@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Verify added product</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>5cd25fc4-3152-44d7-8483-b1208e101287</testSuiteGuid>
+   <testCaseLink>
+      <guid>796647a3-487b-45a9-b181-cd8e0830042b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Login - 01</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7f909515-8fdd-4856-a6ff-391a93aba532</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d904a6d2-642b-4c4b-8141-af85630778eb</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b7596db8-2d52-4001-95e6-d99569b7652f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Product/Product - 01</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4337e625-5444-40f9-b568-be9991b972b1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData_Product</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4337e625-5444-40f9-b568-be9991b972b1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>product_url</value>
+         <variableId>eb590ecf-28ce-4ea3-bc8e-b8517a13ec70</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4337e625-5444-40f9-b568-be9991b972b1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>37d52f6a-890e-464f-9b30-b745d41d2084</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4337e625-5444-40f9-b568-be9991b972b1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>price</value>
+         <variableId>d224552b-9f3d-42ff-be7c-89bbb9e33122</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4337e625-5444-40f9-b568-be9991b972b1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>qty</value>
+         <variableId>a07effc6-415f-4a25-83bc-94c95a09c5ed</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c481ddae-9a02-4a40-a7c3-db2590d83b77</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Product/Product - 02</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ef0b7a4f-c263-460b-9a57-21610061b480</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>beba7463-b55b-4fac-8ade-964bd515bfcf</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
