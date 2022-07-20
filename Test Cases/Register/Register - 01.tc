@@ -44,14 +44,14 @@ Remember to change username to new user, before register</description>
       <variableId>94ee86b7-6db7-40b5-ac0e-5079310879f2</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'suka801'</defaultValue>
+      <defaultValue>'suka8012'</defaultValue>
       <description></description>
       <id>9278b8e1-7707-451b-b18d-3b04a26f68dc</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
-      <defaultValue>'suka801@gmail.com'</defaultValue>
+      <defaultValue>'suka8012@gmail.com'</defaultValue>
       <description></description>
       <id>573c5999-4d71-4143-a473-95456842f8e9</id>
       <masked>false</masked>
