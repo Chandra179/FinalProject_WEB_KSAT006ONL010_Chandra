@@ -47,7 +47,3 @@ WebUI.click(findTestObject('Cart/Action button/i_Rp_thehanger-icons-shopping-bag
 
 WebUI.verifyElementPresent(findTestObject('Cart/Action button/a_Remove product'), 5)
 
-WebUI.verifyElementText(findTestObject('Cart/Page_Cart  Kotakoki/td_Beanie'), productName)
-
-WebUI.verifyElementText(findTestObject('Cart/Page_Cart  Kotakoki/td_Rp18'), productPrice)
-
