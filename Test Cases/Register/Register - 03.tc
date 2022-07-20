@@ -3,85 +3,85 @@
    <description>Register user
 1. Valid  input
 Remember to change username to new user, before register</description>
-   <name>Register - 01</name>
+   <name>Register - 03</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>25381c5f-0e8d-4572-a878-22e82307d467</testCaseGuid>
+   <testCaseGuid>bd77d7da-f423-473e-be83-dd60dacbae80</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>9278b8e1-7707-451b-b18d-3b04a26f68dc</variableId>
+      <variableId>89834e74-ee60-4e96-9470-e7519501a1c4</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>573c5999-4d71-4143-a473-95456842f8e9</variableId>
+      <variableId>96166dc6-a48a-4d68-b397-568043cee961</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>bac88a3a-06df-4b43-b39a-63689e664366</variableId>
+      <variableId>b5425fd0-0243-48f6-aa45-0334cf5825ee</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>495e3997-f4f1-4614-a834-78c55621cbff</variableId>
+      <variableId>55700ee9-e35b-46fc-931a-b114f2950c66</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>1af2c540-8319-4707-9d36-187b993184de</variableId>
+      <variableId>9319bec8-71d6-4b1c-991b-ac7c77bb698c</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>94ee86b7-6db7-40b5-ac0e-5079310879f2</variableId>
+      <variableId>2d8258dc-37fc-45c3-a193-3d9bbc339291</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'suka8019'</defaultValue>
+      <defaultValue>'chan001'</defaultValue>
       <description></description>
-      <id>9278b8e1-7707-451b-b18d-3b04a26f68dc</id>
+      <id>89834e74-ee60-4e96-9470-e7519501a1c4</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
-      <defaultValue>'suka8019@gmail.com'</defaultValue>
+      <defaultValue>'chan001@gmail.com'</defaultValue>
       <description></description>
-      <id>573c5999-4d71-4143-a473-95456842f8e9</id>
+      <id>96166dc6-a48a-4d68-b397-568043cee961</id>
       <masked>false</masked>
       <name>email</name>
    </variable>
    <variable>
       <defaultValue>'5635524'</defaultValue>
       <description></description>
-      <id>bac88a3a-06df-4b43-b39a-63689e664366</id>
+      <id>b5425fd0-0243-48f6-aa45-0334cf5825ee</id>
       <masked>false</masked>
       <name>phone</name>
    </variable>
    <variable>
       <defaultValue>'Chan1234'</defaultValue>
       <description></description>
-      <id>495e3997-f4f1-4614-a834-78c55621cbff</id>
+      <id>55700ee9-e35b-46fc-931a-b114f2950c66</id>
       <masked>false</masked>
       <name>password</name>
    </variable>
    <variable>
       <defaultValue>'Chan1234'</defaultValue>
       <description></description>
-      <id>1af2c540-8319-4707-9d36-187b993184de</id>
+      <id>9319bec8-71d6-4b1c-991b-ac7c77bb698c</id>
       <masked>false</masked>
       <name>confirm_password</name>
    </variable>
    <variable>
       <defaultValue>'jl. nono, no 88'</defaultValue>
       <description></description>
-      <id>94ee86b7-6db7-40b5-ac0e-5079310879f2</id>
+      <id>2d8258dc-37fc-45c3-a193-3d9bbc339291</id>
       <masked>false</masked>
       <name>address</name>
    </variable>
